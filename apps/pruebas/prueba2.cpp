@@ -5,7 +5,7 @@ using namespace std;
 /*
  * Unnecesary string return value, just for testing purposes! :D
  *
- * Returns the elavorated value depending on wich operator symbol the user is choosing
+ * Returns the elaborated value depending on wich operator the user types on it.
  *
  * */
 
