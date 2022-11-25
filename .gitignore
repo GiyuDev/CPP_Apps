@@ -1,5 +1,5 @@
 /apps/pruebas/*.un~
 /apps/pruebas/*.cpp~
 /apps/pruebas/*.exe
-/apps/8BallGame/*.exe
+/apps/8BallGame/app/*.exe
 /apps/8BallGame/.vscode/
