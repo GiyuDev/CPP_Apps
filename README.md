@@ -1,2 +1,2 @@
 # CPP_Apps
-A VIM test using c++
+Some random shitty c++ apps I made
